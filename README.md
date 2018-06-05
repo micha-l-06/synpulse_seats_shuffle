@@ -1,1 +1,4 @@
 # synpulse_seats_shuffle
+- The "synpulse_seats_shuffle.html" file works stand-alone (i.e. there is no need to download the "css" and "js" folder if you only want to use the application) and offline (all necessary CSS and JavaScript code is included in the HTML file). Just open the file in a browser (only Chrome is supported at the moment) and have fun.
+- You can add, edit or remove employees and offices in the "synpulse_seats_generator.html" file. You need to edit the "bratislavaOffice" JavaScript class - its "employees" and "offices" property - for this purposes (there are some examples of both employees and offices in the class).
+- You might not see the Synpulse logo if you are offline.
